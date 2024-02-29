@@ -6,7 +6,8 @@
   - vue3脚手架
   - vant ui 组件库
   - vite 打包工具
-2.后端
+
+2.后端:
   - java + springboot
   - springMVC + MyBatis + MyBatis Plus
   - MySQL
